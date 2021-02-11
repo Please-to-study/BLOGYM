@@ -1,3 +1,8 @@
+---
+title: 一个人的自言自语
+date: 2021-02-11
+type: "talk"
+---
 <!-- 引用 HexoPlusPlus_Talk组件 -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/HexoPlusPlus/HexoPlusPlus@1.1.2/talk.css" /> 
 <script src="https://cdn.jsdelivr.net/gh/HexoPlusPlus/HexoPlusPlus@1.1.2/talk_user.js"></script>
