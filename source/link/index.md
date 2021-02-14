@@ -13,4 +13,4 @@ type: "link"
 - **JerryC**
 - [点击前往](https://jerryc.me/)
 - **Sorryfu**
-- [点击前往](https://sorryfu.top/)
+- [点击前往](https://fushaolei.github.io/)
