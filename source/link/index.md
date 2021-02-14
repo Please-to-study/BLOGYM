@@ -9,7 +9,7 @@ type: "link"
 
 ## 其他
 - **清风徐来 (个人主页)**
-- [点击前往](https://txca.gq/)
+- [点击前往](https://txca.ga/)
 - **JerryC**
 - [点击前往](https://jerryc.me/)
 - **Sorryfu**
