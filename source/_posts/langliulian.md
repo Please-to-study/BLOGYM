@@ -7,6 +7,8 @@ hideInList: false
 cover: https://cdn.jsdelivr.net/gh/Chaaoo/tuku@master/20210209/langliulian.64eu3mdkmvk0.jpg
 isTop: false
 ---
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1307822531&auto=1&height=32"></iframe>
+
 ｜這個風風雨雨的社會 tsit ê hong-hong-ú-ú ê siā-huē 
 ｜欲怎樣開花 beh tsuánn-iūnn khui-hue 
 ｜少年家怎樣落地 siàu-liân-ke tsuánn-iūnn lo̍h-tē 
@@ -26,5 +28,3 @@ isTop: false
 ｜猶原會記得我少年時所偷偷烏白寫的願望 iu-guân ē-kì-tit guá siàu-liân-sî, sóo thau-thau oo-pe̍h siá ê guān-bāng 
 ｜彼當陣我已經當做這世界我早著已經看破 hit-tang-tsūn guá í-king tòng-tsuè, tsit sè-kài guá tsá tiō í-kīng khuànn-phuà 
 ｜後世人 袂閣為著你來 浪流連 āu-sì-lâng, buē koh uī-tio̍h lí lâi lōng-liú-lian 
-
-<iframe src="//player.bilibili.com/player.html?aid=32538248&bvid=BV1aW411U7qT&cid=56934597&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
