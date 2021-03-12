@@ -142,3 +142,6 @@ archive_tab_name: 文档
 #图片懒加载
 lazyload:
   open: true #是否开启
+  
+skip_render: ##跳过指定渲染，忽略文章skip_render: "_posts/hello-world.md"
+  - 404.html
