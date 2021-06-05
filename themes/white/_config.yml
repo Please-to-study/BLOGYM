@@ -41,7 +41,7 @@ archive_img_mode:
 # icon
 icon: https://cdn.jsdelivr.net/gh/tangxuchao/tuku/cloudy-line.png #标签页图标
 #  header
-site_name: 清风徐来
+site_name: 露从今夜白
 
 menu:
   主页: /
@@ -62,21 +62,21 @@ search:
 intro:
   title: '<p id="jinrishici-sentence">获取中...</p>
 <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>'
-  sub: 'I am [Chinese](https://china.txca.ga)' # markdown语法
+  sub: 'I am [boy](https://china.txca.ga)' # markdown语法
   avator: https://cdn.jsdelivr.net/gh/fushaolei/img/20200524104925.jpg #头像 暂时还没用到
-  author: Gossoon #所有文章的默认作者
+  author: White #所有文章的默认作者
 
 #联系方式  
 #更多图标：https://remixicon.com/
 contact:
   Home:
-    - http://www.txca.ga
+    - http://www.pkubailu.cn
     - ri-home-2-line
   QQ:
-    - http://wpa.qq.com/msgrd?v=3&uin=894732999&site=qq&menu=yes
+    - http://wpa.qq.com/msgrd?v=3&uin=1101131319&site=qq&menu=yes
     - ri-qq-line
   Github:
-    - https://github.com/Chaaoo
+    - https://github.com/Pleaae-to-study
     - ri-github-line
 
 
@@ -104,13 +104,13 @@ comments:
   # Valine
   valine:
     open: true # true | false 是否打开
-    appid: La8AKpeTBgYo3PIHm2IgBxMt-MdYXbMMI #Leancloud应用的AppID  这里和下面的要换成你自己的啊QAQ
-    appkey: xC3OHXm1r8D7JMMQR5rS8vck #Leancloud应用的AppKey
+    appid: BMvpSUiHxPGWzuam6YXRgx4d-gzGzoHsz #Leancloud应用的AppID  这里和下面的要换成你自己的啊QAQ
+    appkey: uUJSorbL24dq6rmGGiwf7oLK #Leancloud应用的AppKey
     verify: false #验证码
     notify: true #评论回复提醒
     avatar: robohash #评论列表头像样式：''/mm/identicon/monsterid/wavatar/retro/hide
     #头像类型可见： https://valine.js.org/avatar.html
-    placeholder: 留下你来过的痕迹~ #评论框占位符
+    placeholder: 来呀~评论呀～ #评论框占位符
   # Gitalk
   gitalk:
     open: false # true | false 是否打开

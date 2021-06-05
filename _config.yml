@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 清风徐来
-subtitle: '万丈深渊亦是前程万里'
-description: '某个人的个人博客，一些日常碎碎念记录，乱七八糟的东西都有。'
-keywords: '唐旭超的个人博客、清风徐来、个人博客'
-author: Gossoon
+title: 露从今夜白
+subtitle: '与时间有关'
+description: '个人博客，学习笔记，生活趣事'
+keywords: '露从今夜白、学习笔记'
+author: White
 language: zh-CN
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://www.txca.ga
+url: http://www.pkubailu.cn
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -103,9 +103,9 @@ theme: white
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-- type: cjh_google_url_submitter
-- type: cjh_bing_url_submitter
-- type: cjh_baidu_url_submitter
+  type: git
+  repo: root@CVM www.pkubailu.cn:/home/git/hexoBlog
+  branch: master
 
 hexo_submit_urls_to_search_engine:
   submit_condition: count #链接被提交的条件，可选值：count | period 现仅支持count
